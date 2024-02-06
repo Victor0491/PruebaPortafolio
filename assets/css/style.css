@@ -1,0 +1,49 @@
+/* ----aca van los detalles del body, fijarse bien el tema de los margenes y la source de la letra---- */
+body {
+    font-family: Roboto, sans-serif;
+	background-color: #e3ddec;
+
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Raleway', sans-serif;
+}
+h1 {
+	font-size: 2.5em;
+}
+
+header {
+	background-image: url("../imgs/San_Javier.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+header h1 {
+	display: inline-block;
+	border-bottom: solid 2px white;
+}
+
+header p {
+	font-size: 2.2em;
+}
+
+header h1, header p {
+	text-shadow: 2px 2px 5px black;
+}
+
+header div {
+	margin-top: 3rem;
+	padding-bottom: 10rem;
+}
+/*  */
+
+
+footer {
+	font-size: 16px;
+	font-weight: 300;
+	color: #707070;
+}
+
+
+
+/* Fin, By: Lisette BasCo-- */
